@@ -23,7 +23,7 @@ Este repositorio contiene todos los ejercicios y mini proyectos que he realizado
 
 Soy un principiante aprendiendo Python. Este repositorio es una muestra de mi progreso por dia.
 
-## ✨ Autor
+## Autor
   wMellonz
 
 NOTA: Los ejercicios, días estan algo desordenados, también tuve que subir de golpe del dia 1 al 5 D:
