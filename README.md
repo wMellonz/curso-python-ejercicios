@@ -26,4 +26,4 @@ Soy un principiante aprendiendo Python. Este repositorio es una muestra de mi pr
 ## ✨ Autor
   wMellonz
 
-NOTA: Los ejercicios y dias estan algo desordenados porque no se me ocurrio ponerles las fechas y dias indicados, mis disculpas D:
+NOTA: Los ejercicios, días estan algo desordenados, también tuve que subir de golpe del dia 1 al 5 D:
